@@ -1,4 +1,4 @@
-it is Chatting Application ,Similer Kind Of Functionalities Like What'sApp
+It is Chatting Application ,Similer Kind Of Functionalities Like What'sApp
 Devlop By Using:-
 1.Android Studio Code
 2.Java
@@ -15,3 +15,7 @@ Having Functionalities Like:-
 7. Media Storage and Sharing System.
 8. End-to-End Encryption System.
 9. Group Chat System.
+
+
+Devloped By:-
+ Atharva Gujar
